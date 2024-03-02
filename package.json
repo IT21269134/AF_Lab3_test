@@ -1,0 +1,11 @@
+{
+  "name": "af_lab3_test",
+  "version": "1.0.0",
+  "description": "Application framework_labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harini chamathka",
+  "license": "ISC"
+}
